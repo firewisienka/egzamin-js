@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+article {
+    padding: 30px;
+}
+h1 {
+    color: blue;
+    margin: 20px;
+  }
+  
+  h2 {
+    color: green;
+    margin: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
